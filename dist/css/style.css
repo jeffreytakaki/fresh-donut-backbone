@@ -1,0 +1,8 @@
+.main {
+  width: 100px;
+  height: 100px; }
+
+.big-box ul {
+  list-style-type: none; }
+  .big-box ul li {
+    font-size: 2em; }

@@ -1,0 +1,36 @@
+body {
+	background-color: #D3D7DA;	
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+}
+
+#main {
+	width: 75%;
+	float: right;
+	background-color: rgb(245,245,245)
+}
+
+.big-box {
+	width: 100%;
+	height: auto;
+}
+.big-box ul { 
+	list-style-type: none;
+}
+
+.list-view {
+	width: 500px;
+	padding: 10%;
+	margin: 0 auto;
+
+}
+
+.item {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
