@@ -1,2 +1,2 @@
-# amipal-officehours
-A personal assistant application
+# fresh donut
+a fresh donut locator
